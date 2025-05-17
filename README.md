@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Dutta</h1>
-<h3 align="center">I'm a passionate full-stack developer currently pursuing a B.Tech in Computer Science Engineering. With over a year of hands-on freelance experience, I've built responsive and modern web applications using React and Next.js, while also developing reliable backend systems and CLI tools in Golang. I’m especially focused on creating scalable, secure, and maintainable backend architectures, driven by a strong enthusiasm for the Go programming language..</h3>
+<h3 align="center">I'm a passionate full-stack developer currently pursuing a B.Tech in Computer Science Engineering. With over a year of hands-on freelance experience, I've built responsive and modern web applications using React and Next.js, while also developing reliable backend systems and CLI tools in Golang. I’m especially focused on creating scalable, secure, and maintainable backend architectures, driven by a strong enthusiasm for the Go programming language.</h3>
 
 <p align="left"> <a href="https://twitter.com/sinore69" target="blank"><img src="https://img.shields.io/twitter/follow/sinore69?logo=twitter&style=for-the-badge" alt="sinore69" /></a> </p>
 
-- 🔭 I’m currently working on [Terminal Snake Xenzia](link)
+- I’m currently working on [Terminal Snake Xenzia](https://github.com/sinore69/snakeXenzia)
+
+- My Freelance Projects are [CloudfixMedia](https://sales.cloudfixmedia.com/)
+
+- and [HimSingh](https://github.com/sinore69/himsingh)
+
+- 📫 How to reach me **saptarshidutta599@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
