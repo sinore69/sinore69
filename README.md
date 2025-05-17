@@ -5,9 +5,11 @@
 
 - I’m currently working on [Terminal Snake Xenzia](https://github.com/sinore69/snakeXenzia)
 
-- My Freelance Projects are [CloudfixMedia](https://sales.cloudfixmedia.com/)
+- My Freelance Projects are:
 
-- and [HimSingh](https://github.com/sinore69/himsingh)
+-   [CloudfixMedia](https://sales.cloudfixmedia.com/)
+
+-   [HimSingh](https://github.com/sinore69/himsingh)
 
 - 📫 How to reach me **saptarshidutta599@gmail.com**
 
