@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Dutta</h1>
 <h3 align="center">I'm a passionate full-stack developer currently pursuing a B.Tech in Computer Science Engineering. With over a year of hands-on freelance experience, I've built responsive and modern web applications using React and Next.js, while also developing reliable backend systems and CLI tools in Golang. I’m especially focused on creating scalable, secure, and maintainable backend architectures, driven by a strong enthusiasm for the Go programming language.</h3>
 
-<p align="left"> <a href="https://twitter.com/sinore69" target="blank"><img src="https://img.shields.io/twitter/follow/sinore69?logo=twitter&style=for-the-badge" alt="sinore69" /></a> </p>
-
 - My Freelance Projects are:
 
     -   [CloudfixMedia](https://sales.cloudfixmedia.com/)
