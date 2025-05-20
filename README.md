@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/sinore69" target="blank"><img src="https://img.shields.io/twitter/follow/sinore69?logo=twitter&style=for-the-badge" alt="sinore69" /></a> </p>
 
-- I’m currently working on [Terminal Snake Xenzia](https://github.com/sinore69/snakeXenzia)
-
 - My Freelance Projects are:
 
--   [CloudfixMedia](https://sales.cloudfixmedia.com/)
+    -   [CloudfixMedia](https://sales.cloudfixmedia.com/)
 
--   [HimSingh](https://github.com/sinore69/himsingh)
+    -   [HimSingh](https://github.com/sinore69/himsingh)
 
 - 📫 How to reach me **saptarshidutta599@gmail.com**
 
