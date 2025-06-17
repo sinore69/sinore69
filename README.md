@@ -5,6 +5,8 @@
 
     -   [CloudfixMedia](https://sales.cloudfixmedia.com/)
 
+    -   [codehez](https://codehez.com/)
+
 - My Open-Source Contributions:
 
     -   [Jenkins-infra](https://github.com/jenkins-infra/stories/pull/188)
